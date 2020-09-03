@@ -1,0 +1,48 @@
+body {
+  background-color: #557571;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #382933;
+  border-width: 10px;
+  width: 8%;
+}
+
+img {
+  border-style: ridge;
+  border-color: #557571;
+  border-radius: 200px;
+  border-width: 15px;
+}
+
+h1 {
+  color: #382933;
+
+}
+
+h4 {
+  color: #382933;
+}
+
+p {
+  color: #382933;
+}
+
+h3 {
+  color: #382933;
+  text-decoration: underline;
+}
+
+table {
+  color: #382933;
+}
+
+ul {
+  color: #382933;
+}
+
+dl {
+  color: #382933;
+}
