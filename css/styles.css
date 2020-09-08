@@ -1,0 +1,64 @@
+body {
+  background-color: #a4b494;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #382933;
+  border-width: 10px;
+  width: 8%;
+}
+
+img {
+  border-style: solid;
+  border-color: #382933;
+  border-radius: 200px;
+  border-width: 10px;
+}
+
+h1 {
+  color: #382933;
+
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h4 {
+  color: #382933;
+}
+
+p {
+  color: #382933;
+  font-size: 20px;
+}
+
+h3 {
+  color: #382933;
+  text-decoration: underline;
+}
+
+table {
+  color: #382933;
+}
+
+ul {
+  color: #382933;
+}
+
+dl {
+  color: #382933;
+}
+
+.achievements {
+  border-style: double;
+  border-color: #382933;
+  background-color: #776d8a;
+}
+
+.contact {
+  border-style: double;
+  border-color: #382933;
+}
